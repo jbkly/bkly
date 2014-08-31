@@ -43,3 +43,19 @@
 		#header nav a:active {
 			font-size: 1em;
 		}
+
+/*Media queries*/
+
+@media (max-width: 448px) {
+  #header nav {
+    margin-right: 3em;
+    margin-left: 3em;
+  }
+}
+
+@media (max-width: 366px) {
+  #header nav {
+    margin-right: 2em;
+    margin-left: 2em;
+  }
+}

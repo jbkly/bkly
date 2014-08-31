@@ -11,3 +11,10 @@
 	  -o-background-size: cover;
 	  background-size: cover;
 	}
+
+@media (max-width: 333px) {
+  #header nav {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
