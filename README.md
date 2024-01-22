@@ -1,4 +1,4 @@
-bkly.org
+bkly
 ========
 
-My landing page with contact info and links. Eventually should include a portfolio and a blog.
+My landing page with contact info and links.
